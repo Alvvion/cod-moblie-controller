@@ -1,11 +1,5 @@
 # Call-of-Duty
 
-![](https://img.shields.io/badge/license-MIT-yellowgreen)  ![](https://img.shields.io/badge/python-3.8-red)
-
-![](images/codmr.jpg)
-
-[Demo link](https://www.linkedin.com/feed/update/urn:li:activity:6779814634418401280/)
-
 ## Installations 
 
 PyAutoGUI is a cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
